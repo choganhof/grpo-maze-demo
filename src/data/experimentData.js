@@ -1,10 +1,13 @@
+const base = import.meta.env.BASE_URL
+
 const dataFiles = Object.freeze({
-  visualizationRecords: '/data/grpo_maze_visualization_data_20.json',
-  mazeDefinitions: '/data/grpo_maze_definitions_20.json',
-  trainingProgress: '/data/grpo_maze_training_progress.json',
-  singleUpdateTrajectories: '/data/grpo_single_update_trajectories.json',
-  singleUpdateProbabilities: '/data/grpo_single_update_probabilities.json',
+  visualizationRecords: `${base}data/grpo_maze_visualization_data_20.json`,
+  mazeDefinitions: `${base}data/grpo_maze_definitions_20.json`,
+  trainingProgress: `${base}data/grpo_maze_training_progress.json`,
+  singleUpdateTrajectories: `${base}data/grpo_single_update_trajectories.json`,
+  singleUpdateProbabilities: `${base}data/grpo_single_update_probabilities.json`,
 })
+
 
 let experimentDataPromise
 
