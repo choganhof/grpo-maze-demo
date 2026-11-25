@@ -1,0 +1,434 @@
+[
+  {
+    "checkpoint_index": 0,
+    "stage": 1,
+    "stage_group": 0,
+    "cumulative_group": 0,
+    "cumulative_updates": 0,
+    "cumulative_trajectories": 0,
+    "success": 0.34
+  },
+  {
+    "checkpoint_index": 1,
+    "stage": 1,
+    "stage_group": 100,
+    "cumulative_group": 100,
+    "cumulative_updates": 87,
+    "cumulative_trajectories": 1728,
+    "success": 0.44
+  },
+  {
+    "checkpoint_index": 2,
+    "stage": 1,
+    "stage_group": 200,
+    "cumulative_group": 200,
+    "cumulative_updates": 171,
+    "cumulative_trajectories": 3744,
+    "success": 0.73
+  },
+  {
+    "checkpoint_index": 3,
+    "stage": 2,
+    "stage_group": 0,
+    "cumulative_group": 200,
+    "cumulative_updates": 171,
+    "cumulative_trajectories": 3744,
+    "success": 0.46
+  },
+  {
+    "checkpoint_index": 4,
+    "stage": 2,
+    "stage_group": 100,
+    "cumulative_group": 300,
+    "cumulative_updates": 220,
+    "cumulative_trajectories": 7784,
+    "success": 0.82
+  },
+  {
+    "checkpoint_index": 5,
+    "stage": 3,
+    "stage_group": 0,
+    "cumulative_group": 300,
+    "cumulative_updates": 220,
+    "cumulative_trajectories": 7784,
+    "success": 0.61
+  },
+  {
+    "checkpoint_index": 6,
+    "stage": 3,
+    "stage_group": 100,
+    "cumulative_group": 400,
+    "cumulative_updates": 288,
+    "cumulative_trajectories": 10848,
+    "success": 0.69
+  },
+  {
+    "checkpoint_index": 7,
+    "stage": 3,
+    "stage_group": 200,
+    "cumulative_group": 500,
+    "cumulative_updates": 345,
+    "cumulative_trajectories": 14520,
+    "success": 0.72
+  },
+  {
+    "checkpoint_index": 8,
+    "stage": 4,
+    "stage_group": 0,
+    "cumulative_group": 500,
+    "cumulative_updates": 345,
+    "cumulative_trajectories": 14520,
+    "success": 0.43
+  },
+  {
+    "checkpoint_index": 9,
+    "stage": 4,
+    "stage_group": 100,
+    "cumulative_group": 600,
+    "cumulative_updates": 418,
+    "cumulative_trajectories": 17304,
+    "success": 0.39
+  },
+  {
+    "checkpoint_index": 10,
+    "stage": 4,
+    "stage_group": 200,
+    "cumulative_group": 700,
+    "cumulative_updates": 493,
+    "cumulative_trajectories": 19896,
+    "success": 0.26
+  },
+  {
+    "checkpoint_index": 11,
+    "stage": 4,
+    "stage_group": 300,
+    "cumulative_group": 800,
+    "cumulative_updates": 577,
+    "cumulative_trajectories": 22032,
+    "success": 0.46
+  },
+  {
+    "checkpoint_index": 12,
+    "stage": 4,
+    "stage_group": 400,
+    "cumulative_group": 900,
+    "cumulative_updates": 652,
+    "cumulative_trajectories": 24712,
+    "success": 0.47
+  },
+  {
+    "checkpoint_index": 13,
+    "stage": 4,
+    "stage_group": 500,
+    "cumulative_group": 1000,
+    "cumulative_updates": 714,
+    "cumulative_trajectories": 27936,
+    "success": 0.55
+  },
+  {
+    "checkpoint_index": 14,
+    "stage": 4,
+    "stage_group": 600,
+    "cumulative_group": 1100,
+    "cumulative_updates": 778,
+    "cumulative_trajectories": 31112,
+    "success": 0.6
+  },
+  {
+    "checkpoint_index": 15,
+    "stage": 4,
+    "stage_group": 700,
+    "cumulative_group": 1200,
+    "cumulative_updates": 843,
+    "cumulative_trajectories": 34208,
+    "success": 0.6
+  },
+  {
+    "checkpoint_index": 16,
+    "stage": 4,
+    "stage_group": 800,
+    "cumulative_group": 1300,
+    "cumulative_updates": 905,
+    "cumulative_trajectories": 37640,
+    "success": 0.59
+  },
+  {
+    "checkpoint_index": 17,
+    "stage": 4,
+    "stage_group": 900,
+    "cumulative_group": 1400,
+    "cumulative_updates": 965,
+    "cumulative_trajectories": 41136,
+    "success": 0.62
+  },
+  {
+    "checkpoint_index": 18,
+    "stage": 4,
+    "stage_group": 1000,
+    "cumulative_group": 1500,
+    "cumulative_updates": 1021,
+    "cumulative_trajectories": 44608,
+    "success": 0.66
+  },
+  {
+    "checkpoint_index": 19,
+    "stage": 4,
+    "stage_group": 1100,
+    "cumulative_group": 1600,
+    "cumulative_updates": 1080,
+    "cumulative_trajectories": 48064,
+    "success": 0.59
+  },
+  {
+    "checkpoint_index": 20,
+    "stage": 4,
+    "stage_group": 1200,
+    "cumulative_group": 1700,
+    "cumulative_updates": 1141,
+    "cumulative_trajectories": 51368,
+    "success": 0.62
+  },
+  {
+    "checkpoint_index": 21,
+    "stage": 4,
+    "stage_group": 1300,
+    "cumulative_group": 1800,
+    "cumulative_updates": 1199,
+    "cumulative_trajectories": 54984,
+    "success": 0.75
+  },
+  {
+    "checkpoint_index": 22,
+    "stage": 5,
+    "stage_group": 0,
+    "cumulative_group": 1800,
+    "cumulative_updates": 1199,
+    "cumulative_trajectories": 54984,
+    "success": 0.47
+  },
+  {
+    "checkpoint_index": 23,
+    "stage": 5,
+    "stage_group": 100,
+    "cumulative_group": 1900,
+    "cumulative_updates": 1266,
+    "cumulative_trajectories": 58024,
+    "success": 0.48
+  },
+  {
+    "checkpoint_index": 24,
+    "stage": 5,
+    "stage_group": 200,
+    "cumulative_group": 2000,
+    "cumulative_updates": 1332,
+    "cumulative_trajectories": 61304,
+    "success": 0.42
+  },
+  {
+    "checkpoint_index": 25,
+    "stage": 5,
+    "stage_group": 300,
+    "cumulative_group": 2100,
+    "cumulative_updates": 1400,
+    "cumulative_trajectories": 64552,
+    "success": 0.27
+  },
+  {
+    "checkpoint_index": 26,
+    "stage": 5,
+    "stage_group": 400,
+    "cumulative_group": 2200,
+    "cumulative_updates": 1465,
+    "cumulative_trajectories": 67568,
+    "success": 0.48
+  },
+  {
+    "checkpoint_index": 27,
+    "stage": 5,
+    "stage_group": 500,
+    "cumulative_group": 2300,
+    "cumulative_updates": 1526,
+    "cumulative_trajectories": 70920,
+    "success": 0.55
+  },
+  {
+    "checkpoint_index": 28,
+    "stage": 5,
+    "stage_group": 600,
+    "cumulative_group": 2400,
+    "cumulative_updates": 1595,
+    "cumulative_trajectories": 73768,
+    "success": 0.72
+  },
+  {
+    "checkpoint_index": 29,
+    "stage": 6,
+    "stage_group": 0,
+    "cumulative_group": 2400,
+    "cumulative_updates": 1595,
+    "cumulative_trajectories": 73768,
+    "success": 0.56
+  },
+  {
+    "checkpoint_index": 30,
+    "stage": 6,
+    "stage_group": 100,
+    "cumulative_group": 2500,
+    "cumulative_updates": 1658,
+    "cumulative_trajectories": 77016,
+    "success": 0.41
+  },
+  {
+    "checkpoint_index": 31,
+    "stage": 6,
+    "stage_group": 200,
+    "cumulative_group": 2600,
+    "cumulative_updates": 1730,
+    "cumulative_trajectories": 79816,
+    "success": 0.5
+  },
+  {
+    "checkpoint_index": 32,
+    "stage": 6,
+    "stage_group": 300,
+    "cumulative_group": 2700,
+    "cumulative_updates": 1803,
+    "cumulative_trajectories": 82632,
+    "success": 0.68
+  },
+  {
+    "checkpoint_index": 33,
+    "stage": 6,
+    "stage_group": 400,
+    "cumulative_group": 2800,
+    "cumulative_updates": 1854,
+    "cumulative_trajectories": 86688,
+    "success": 0.57
+  },
+  {
+    "checkpoint_index": 34,
+    "stage": 6,
+    "stage_group": 500,
+    "cumulative_group": 2900,
+    "cumulative_updates": 1915,
+    "cumulative_trajectories": 89960,
+    "success": 0.76
+  },
+  {
+    "checkpoint_index": 35,
+    "stage": 7,
+    "stage_group": 0,
+    "cumulative_group": 2900,
+    "cumulative_updates": 1915,
+    "cumulative_trajectories": 89960,
+    "success": 0.68
+  },
+  {
+    "checkpoint_index": 36,
+    "stage": 7,
+    "stage_group": 100,
+    "cumulative_group": 3000,
+    "cumulative_updates": 1964,
+    "cumulative_trajectories": 93960,
+    "success": 0.69
+  },
+  {
+    "checkpoint_index": 37,
+    "stage": 7,
+    "stage_group": 200,
+    "cumulative_group": 3100,
+    "cumulative_updates": 2001,
+    "cumulative_trajectories": 98600,
+    "success": 0.55
+  },
+  {
+    "checkpoint_index": 38,
+    "stage": 7,
+    "stage_group": 300,
+    "cumulative_group": 3200,
+    "cumulative_updates": 2059,
+    "cumulative_trajectories": 102096,
+    "success": 0.62
+  },
+  {
+    "checkpoint_index": 39,
+    "stage": 7,
+    "stage_group": 400,
+    "cumulative_group": 3300,
+    "cumulative_updates": 2093,
+    "cumulative_trajectories": 106968,
+    "success": 0.61
+  },
+  {
+    "checkpoint_index": 40,
+    "stage": 7,
+    "stage_group": 500,
+    "cumulative_group": 3400,
+    "cumulative_updates": 2131,
+    "cumulative_trajectories": 111504,
+    "success": 0.65
+  },
+  {
+    "checkpoint_index": 41,
+    "stage": 7,
+    "stage_group": 600,
+    "cumulative_group": 3500,
+    "cumulative_updates": 2159,
+    "cumulative_trajectories": 116552,
+    "success": 0.93
+  },
+  {
+    "checkpoint_index": 42,
+    "stage": 8,
+    "stage_group": 0,
+    "cumulative_group": 3500,
+    "cumulative_updates": 2159,
+    "cumulative_trajectories": 116552,
+    "success": 0.81
+  },
+  {
+    "checkpoint_index": 43,
+    "stage": 9,
+    "stage_group": 0,
+    "cumulative_group": 3500,
+    "cumulative_updates": 2159,
+    "cumulative_trajectories": 116552,
+    "success": 0.65
+  },
+  {
+    "checkpoint_index": 44,
+    "stage": 9,
+    "stage_group": 100,
+    "cumulative_group": 3600,
+    "cumulative_updates": 2201,
+    "cumulative_trajectories": 121016,
+    "success": 0.71
+  },
+  {
+    "checkpoint_index": 45,
+    "stage": 10,
+    "stage_group": 0,
+    "cumulative_group": 3600,
+    "cumulative_updates": 2201,
+    "cumulative_trajectories": 121016,
+    "success": 0.61
+  },
+  {
+    "checkpoint_index": 46,
+    "stage": 10,
+    "stage_group": 100,
+    "cumulative_group": 3700,
+    "cumulative_updates": 2253,
+    "cumulative_trajectories": 124992,
+    "success": 0.62
+  },
+  {
+    "checkpoint_index": 47,
+    "stage": 10,
+    "stage_group": 200,
+    "cumulative_group": 3800,
+    "cumulative_updates": 2294,
+    "cumulative_trajectories": 129440,
+    "success": 0.9
+  }
+]

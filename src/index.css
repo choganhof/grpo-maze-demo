@@ -1,0 +1,40 @@
+:root {
+  font-family: ui-sans-serif, system-ui, 'Segoe UI', sans-serif;
+  color: #23313b;
+  background: #f7f7f3;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --ink: #23313b;
+  --ink-soft: #41515b;
+  --muted: #748087;
+  --accent-dark: #237b73;
+  --line: #e2e5e0;
+  --surface: #fff;
+  --serif: Georgia, 'Times New Roman', serif;
+
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  color: white;
+  background: #237b73;
+}
